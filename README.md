@@ -30,7 +30,7 @@ automatically show Location information with traffic in Map
 
 ### Bus List:
 After search list of available buses will be visible. If user select a bus 
-details Routes of the bus will be available to user.
+details Routes of the bus including map will be available to user.
 
 --------
 
