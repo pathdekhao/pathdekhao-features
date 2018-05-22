@@ -34,7 +34,6 @@ details Routes of the bus will be available to user.
 
 --------
 
-### SEARCH:
 ### Fare:
 Based on government policy and user destination the app will show probable fare.
 There will also be an option of checking fare chart provided by govenment.
